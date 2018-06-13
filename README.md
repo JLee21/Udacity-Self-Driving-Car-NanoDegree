@@ -7,13 +7,13 @@ Detected highway lane lines on a video stream. Used OpencV image analysis techni
 ### [Project 2](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree-Term-1/tree/master/p2-traffic-signs/traffic-sign-classifier-project)
 Build and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
 
-### [Project 3](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree/tree/master/p3-behavioural-cloning/carnd-behavioral-cloning-p3)
+### [Project 3](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree-Term-1/tree/master/p3-behavioural-cloning/carnd-behavioral-cloning-p3)
 Build and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and dropout to generalize the network for driving on multiple tracks.
 
-### [Project 4](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree/tree/master/p4-advanced-lane-finding/carnd-advanced-lane-lines)
+### [Project 4](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree-Term-1/tree/master/p4-advanced-lane-finding/carnd-advanced-lane-lines)
 Build an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
 
-### [Project 5](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree/tree/master/p5-vehicle-detection/carnd-vehicle-detection)
+### [Project 5](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree-Term-1/tree/master/p5-vehicle-detection/carnd-vehicle-detection)
 Detect and track vehicles on a road using a trained SVM model and Computer Vision Techniques.
 
 ### Project 6
