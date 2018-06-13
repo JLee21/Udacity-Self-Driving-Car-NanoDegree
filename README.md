@@ -4,7 +4,7 @@
 Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
 
 
-### [Project 2](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree/tree/master/p2-traffic-signs/traffic-sign-classifier-project)
+### [Project 2](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree-Term-1/tree/master/p2-traffic-signs/traffic-sign-classifier-project)
 Build and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
 
 ### [Project 3](https://github.com/JLee21/Udacity-Self-Driving-Car-NanoDegree/tree/master/p3-behavioural-cloning/carnd-behavioral-cloning-p3)
